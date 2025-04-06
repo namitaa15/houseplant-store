@@ -9,3 +9,4 @@ This is a React + Vite e-commerce project where users can explore and buy housep
 
 💻 GitHub Repo: https://github.com/namitaa15/houseplant-store  
 🌐 Live Site: https://benevolent-pony-b8927b.netlify.app
+
